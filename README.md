@@ -35,4 +35,4 @@ Se você quiser modificar o código ou rodar direto pelo Python:
    ```bash
    git clone [https://github.com/jnetu/autoclick.git](https://github.com/jnetu/autoclick.git)
 
-<!--update:20260815094819-->
+<!--update:20260816061326-->
